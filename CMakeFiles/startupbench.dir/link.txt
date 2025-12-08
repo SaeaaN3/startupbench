@@ -1,0 +1,3 @@
+C:\msys64\mingw32\bin\cmake.exe -E rm -f CMakeFiles\startupbench.dir/objects.a
+C:\msys64\mingw32\bin\ar.exe qc CMakeFiles\startupbench.dir/objects.a @CMakeFiles\startupbench.dir\objects1.rsp
+C:\msys64\mingw32\bin\c++.exe  -static -Wl,--whole-archive CMakeFiles\startupbench.dir/objects.a -Wl,--no-whole-archive -o startupbench.exe -Wl,--out-implib,libstartupbench.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\startupbench.dir\linkLibs.rsp

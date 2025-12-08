@@ -1,0 +1,3 @@
+C:/Users/katahiromz/Desktop/startupbench/CMakeFiles/startupbench.dir
+C:/Users/katahiromz/Desktop/startupbench/CMakeFiles/edit_cache.dir
+C:/Users/katahiromz/Desktop/startupbench/CMakeFiles/rebuild_cache.dir
